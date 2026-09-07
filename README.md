@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/CipherForge_logo.png"
        alt="CipherForge Logo"
-       width="100">
+       width="50">
 </p>
 <h1 align="center">🔐 CipherForge</h1>
 
