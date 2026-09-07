@@ -64,7 +64,7 @@
 
 <tr>
 <td>🍎 macOS</td>
-<td>⚠️ Not officially tested</td>
+<td>✅ Supported</td>
 </tr>
 </table>
 
