@@ -1,9 +1,9 @@
-<p align="center">
+
+<h1 align="center"><p align="center">
   <img src="assets/CipherForge_logo.png"
        alt="CipherForge Logo"
        width="50">
-</p>
-<h1 align="center">🔐 CipherForge</h1>
+</p> CipherForge</h1>
 
 <p align="center">
   <strong>Secure File & Folder Encryption Tool</strong>
